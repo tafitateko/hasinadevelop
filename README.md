@@ -1,0 +1,2 @@
+# hasinadevelop
+mylocalsite
